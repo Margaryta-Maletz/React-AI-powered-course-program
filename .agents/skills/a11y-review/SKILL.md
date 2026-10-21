@@ -1,6 +1,6 @@
 ---
 name: a11y-review
-description: Review accessibility of UI — semantics, labels, keyboard, focus, dialogs, errors. Use for any UI work, especially modals, comboboxes and forms.
+description: Review accessibility of UI — semantics, labels, keyboard, focus, dialogs, errors. Use for any UI work, especially modals, combo-boxes and forms.
 disable-model-invocation: true
 disallowed-tools: Edit Write NotebookEdit
 metadata:

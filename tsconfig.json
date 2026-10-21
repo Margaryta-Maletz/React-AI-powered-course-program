@@ -23,7 +23,7 @@
     "noUncheckedSideEffectImports": true,
 
     /* Types available in tests + Vite config */
-    "types": ["vite/client", "vitest/globals", "@testing-library/jest-dom"]
+    "types": ["node", "vite/client", "vitest/globals", "@testing-library/jest-dom"]
   },
-  "include": ["src", "vitest.setup.ts", "vite.config.ts"]
+  "include": ["src", "vitest.setup.ts", "vite.config.ts", "scripts", ".cursor/hooks"]
 }

@@ -23,6 +23,6 @@ disable-model-invocation: true
 
 ## Rules
 
-- **Never invent or improve the justification.** If they won't give one, record the choice as
+- **Never invent or improve the justification.** If they don't give one, record the choice as
   **Declined — justification owed**.
 - Only append to `CHANGELOG.md` — no other files.

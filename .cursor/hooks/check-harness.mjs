@@ -10,10 +10,9 @@
  * ===================== /AI-COACH-RULES =====================
  */
 import { existsSync } from 'node:fs';
-import { fileURLToPath } from 'node:url';
-import { dirname, join } from 'node:path';
+import { join } from 'node:path';
 
-const repoRoot = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
+const repoRoot = join(import.meta.dirname, '..', '..');
 const instructionFiles = [
   'CLAUDE.md',
   'AGENTS.md',

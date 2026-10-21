@@ -1,6 +1,6 @@
 ---
 name: defend
-description: Run a mock cross-check / defense: act as a reviewer asking the student to justify their code. Use to prepare for cross-check or mentor review.
+description: 'Run a mock cross-check / defense: act as a reviewer asking the student to justify their code. Use to prepare for cross-check or mentor review.'
 disable-model-invocation: true
 disallowed-tools: Edit Write NotebookEdit
 ---
