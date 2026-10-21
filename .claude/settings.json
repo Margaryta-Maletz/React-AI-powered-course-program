@@ -27,14 +27,14 @@
     "defend": "on",
     "log-decision": "on",
     "hooks-review": "off",
-    "routing-review": "off",
+    "routing-review": "on",
     "state-review": "off",
     "query-review": "off",
-    "a11y-review": "off",
+    "a11y-review": "on",
     "composition-review": "off",
     "forms-review": "off",
     "perf-review": "off",
     "rsc-review": "off",
-    "e2e-review": "off"
+    "e2e-review": "on"
   }
 }
