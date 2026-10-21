@@ -8,11 +8,6 @@ dist-ssr
 # Test / coverage
 coverage
 
-# Playwright
-/test-results
-/playwright-report
-/playwright/.cache
-
 # TypeScript incremental build info
 *.tsbuildinfo
 
